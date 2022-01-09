@@ -1,6 +1,6 @@
-[How to Use](#usage)
+# [How to Use](#usage)
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)]("project_gif.gif")
+![Alt Text](https://github.com/rahul-agrawal-99/Blink-Counter/blob/main/project_gif.gif)
 <!-- ------------------------------------------------  start  --------------------------------------------------------------------- -->
 ## Author
 
